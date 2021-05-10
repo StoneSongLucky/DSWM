@@ -1,0 +1,10 @@
+1.synDataSection.mat: the clean data shown in Figure4a
+2.seiData3DNoise8dB.mat: synthetic data with amplitude noise (SNR=8dB)
+3.bottomHorizon.txt: bottom horizon of trageted layer
+4.topHoriozn.txt: top horizon of trageted layer
+5.syntheticShow.m: code to show the synthetic data and horizon
+6.syntheticTest1.m: synthetic data test with only amplitude noise (8dB)
+7.syntheticTest2.m: synthetic data test with amplitude noise (8dB) and horizon noise
+8.clcDistanceVarianceWin.m: calculate the DSWM distance
+9.f_bandpass_filter.m:BandpassFilter filters signals of a certain frequency band to pass
+10.need Signal Processing Toolbox(see https://www.mathworks.com/products/signal.html ) and S4M 
